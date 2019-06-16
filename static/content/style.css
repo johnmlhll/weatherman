@@ -1,0 +1,146 @@
+/*Desktop Styling*/
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3em
+}
+
+h3, h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.1em
+}
+
+body {
+    margin: 0 auto;
+    background: -webkit-linear-gradient(#96e0ff, #ffffff);
+    background: -o-linear-gradient(#96e0ff, #ffffff);
+    background: -moz-linear-gradient(#96e0ff, #ffffff);
+    background: linear-gradient(#96e0ff, #ffffff);
+    width: 100%;
+    height: auto;
+    resize: both;
+}
+
+#wrapper {
+    background-color:#8fa9aa;
+    -moz-box-shadow: 3px 5px 1.5px rgba(0,1,51,0.5);
+    -webkit-box-shadow: 3px 5px 1.5px rgba(0,1,51,0.5);
+    box-shadow: 3px 5px 1.5px rgba(0,1,51,0.5);
+    text-align: center;
+    margin: 2% auto;
+    padding: 1%;
+    border-radius: 10%;
+    font-family: Verdana, Palatino, serif;
+    width: 95%;
+    height: auto;   
+    resize: both;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+}
+
+#wrapper h1 {
+    font-size: 2em;
+    padding-block-end: 1%;
+}
+
+#head_img {
+    width: 50%;
+    height: auto;
+    resize: both
+}
+
+.btn_expand {
+    width: 30%;
+    resize: both;
+    border-radius: 8%;
+    font-size: 1.2em;
+    min-width: 200px;
+}
+
+.btn_expand:hover {
+    background-color: #51e53d;
+    color: #ffffff;
+}
+
+#navbar li {
+    margin: 1%;
+}
+
+#navbar li a {
+    width: 10%;
+    resize: both;
+    border-radius: 8%;
+    font-size: 1.8em;
+    min-width: 200px;
+    text-align: center;
+}
+
+#navbar li a:hover {
+    background-color: #51e53d;
+    font-weight: bold;
+    color: #ecece7;
+    border-style: ridge;
+    border-width: 2px;
+    border-block-end-color: #4f7677;
+}
+
+footer p {
+    padding: 1%;
+}
+
+input {
+    width: 20%;
+    height: auto;
+    resize: both;
+}
+
+/*Child Template Styling*/
+.error {
+    margin: 1%;
+    color: red;
+}
+
+.error p {
+    padding: 1%;
+}
+
+#home_content {
+    width: 90%;
+    height: auto;
+    background-color:#c9e6e8;
+    position: relative;
+    -moz-box-shadow: 3px 5px 1.5px rgba(0,1,51,0.5);
+    -webkit-box-shadow: 3px 5px 1.5px rgba(0,1,51,0.5);
+    box-shadow: 3px 5px 1.5px rgba(0,1,51,0.5);
+    margin: 1%;
+    padding: 2%;
+}
+
+#home_content h3 {
+    padding: 1%;
+}
+
+img {
+    border-radius: 5%;
+    border-style: inset;
+    border-width: 10px;
+    border-block-color: #4f7677;
+}
+
+p {
+    margin: 1%;
+    font-stretch: expanded;
+    font-size: 1.1em;
+}
+
+@media only screen and (max-width: 840px) {
+    .btn_expand {
+        font-size: 0.8em;
+        min-width: 100px;
+    }
+}

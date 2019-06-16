@@ -1,0 +1,678 @@
+[2019-06-16T17:09:59] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T17:09:59] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T17:10:19] INFO [werkzeug._log:122]  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2019-06-16T17:10:19] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T17:10:19] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T17:10:19] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T17:10:38] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:10:38] "GET / HTTP/1.1" 200 -
+[2019-06-16T17:10:44] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T17:10:44] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T17:10:44] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:10:44] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T17:12:04] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/packages/logger.py', reloading
+[2019-06-16T17:12:04] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T17:12:39] INFO [werkzeug._log:122]  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2019-06-16T17:12:39] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T17:12:39] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T17:12:39] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T17:12:50] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T17:12:50] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T17:12:50] DEBUG [root.summary:27] API call processed successfully
+[2019-06-16T17:12:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:12:50] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T17:12:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:12:50] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T17:12:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:12:50] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T17:12:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:12:50] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T17:12:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:12:50] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T17:13:30] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/packages/logger.py', reloading
+[2019-06-16T17:13:30] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T17:13:30] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T17:13:30] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T17:13:51] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/weatherman.py', reloading
+[2019-06-16T17:13:51] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T17:13:51] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T17:13:51] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T17:44:56] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/packages/weatherapi.py', reloading
+[2019-06-16T17:44:56] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T17:59:19] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T17:59:19] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T17:59:23] INFO [werkzeug._log:122]  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2019-06-16T17:59:23] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T17:59:23] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T17:59:23] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T17:59:43] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/packages/weatherapi.py', reloading
+[2019-06-16T17:59:43] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T17:59:44] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T17:59:44] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T17:59:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:59:57] "GET / HTTP/1.1" 200 -
+[2019-06-16T17:59:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:59:58] "GET / HTTP/1.1" 200 -
+[2019-06-16T17:59:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:59:58] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T17:59:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:59:58] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T17:59:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:59:58] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T17:59:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 17:59:58] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:00:04] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:00:04] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4371
+[2019-06-16T18:00:04] DEBUG [root.summary:28] API call processed successfully
+[2019-06-16T18:00:04] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:00:04] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:02:18] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/weatherman.py', reloading
+[2019-06-16T18:02:18] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:02:18] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:02:18] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:02:28] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/weatherman.py', reloading
+[2019-06-16T18:02:28] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:02:28] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:02:28] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:02:42] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/weatherman.py', reloading
+[2019-06-16T18:02:42] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:02:43] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:02:43] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:03:35] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/packages/weatherapi.py', reloading
+[2019-06-16T18:03:35] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:03:35] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:03:35] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:03:39] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:03:39] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:03:39] INFO [root.call_weatherapi:31] Logging TRANF call
+[2019-06-16T18:03:39] DEBUG [root.summary:28] API call processed successfully
+[2019-06-16T18:03:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:03:40] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:03:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:03:40] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:03:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:03:40] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:03:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:03:40] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:03:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:03:40] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:03:43] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:03:43] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:03:47] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:03:47] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Paris&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4329
+[2019-06-16T18:03:47] INFO [root.call_weatherapi:31] Logging TRANF call
+[2019-06-16T18:03:47] DEBUG [root.summary:28] API call processed successfully
+[2019-06-16T18:03:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:03:47] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:04:42] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/packages/weatherapi.py', reloading
+[2019-06-16T18:04:42] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:04:42] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:04:42] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:05:34] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/packages/weatherapi.py', reloading
+[2019-06-16T18:05:34] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:05:34] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:05:34] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:05:54] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/weatherman.py', reloading
+[2019-06-16T18:05:54] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:05:54] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:05:54] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:06:01] INFO [werkzeug._log:122]  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2019-06-16T18:06:01] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:06:01] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:06:01] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:06:09] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:06:09] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:06:18] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:06:18] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:06:18] DEBUG [root.summary:28] API call processed successfully
+[2019-06-16T18:06:18] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:06:18] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:06:59] INFO [werkzeug._log:122]  * Detected change in '/home/johmlhll/GoogleDrive/MyGitHubProjectPortfolio/ProjectWeatherman/weatherman/weatherman.py', reloading
+[2019-06-16T18:06:59] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:06:59] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:06:59] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:07:14] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:07:14] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:07:21] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:07:21] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Paris&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4329
+[2019-06-16T18:07:21] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:07:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:07:21] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:07:28] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:07:28] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:08:26] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:08:26] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:08:28] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:08:28] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:08:33] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:08:34] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=New%20York&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4405
+[2019-06-16T18:08:34] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:08:34] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:08:34] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:08:46] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:08:46] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:08:54] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:08:54] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:08:54] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:08:54] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:08:54] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:12:58] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:12:58] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=New%20York&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4405
+[2019-06-16T18:12:58] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:12:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:12:58] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:13:08] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:13:08] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:13:08] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:13:08] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:13:08] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:13:08] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:13:08] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:13:08] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:13:08] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:13:08] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:14:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:14:55] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:14:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:14:55] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:14:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:14:55] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:14:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:14:55] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:14:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:14:55] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:16:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:16:47] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:16:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:16:47] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:16:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:16:47] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:16:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:16:47] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:16:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:16:47] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:17:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:17:47] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:17:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:17:48] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:17:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:17:48] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:17:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:17:48] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:17:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:17:48] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:18:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:18:42] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:18:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:18:42] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:18:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:18:42] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:18:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:18:42] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:18:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:18:42] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:19:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:19:56] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:19:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:19:56] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:19:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:19:56] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:19:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:19:56] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:19:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:19:56] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:20:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:20:39] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:20:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:20:39] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:20:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:20:39] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:20:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:20:39] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:20:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:20:39] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:20:57] INFO [werkzeug._log:122]  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2019-06-16T18:20:57] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T18:20:57] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T18:20:57] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T18:21:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:21:00] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:21:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:21:00] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:21:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:21:00] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:21:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:21:00] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:21:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:21:00] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:23:30] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:23:30] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:23:30] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:23:30] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:23:30] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:23:30] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:23:30] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:23:30] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:23:30] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:23:30] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:25:09] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:09] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:25:09] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:09] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:25:09] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:09] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:25:09] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:09] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:25:09] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:09] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:25:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:59] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:25:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:59] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:25:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:59] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:25:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:59] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:25:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:25:59] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:26:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:26:47] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:26:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:26:47] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:26:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:26:47] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:26:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:26:47] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:26:47] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:26:47] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:27:53] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:27:53] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:27:53] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:27:53] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:27:53] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:27:53] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:27:53] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:27:53] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:27:53] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:27:53] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:28:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:19] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:28:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:19] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:28:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:19] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:28:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:19] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:28:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:19] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:28:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:42] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:28:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:42] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:28:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:42] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:28:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:42] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:28:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:42] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:28:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:58] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:28:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:58] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:28:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:58] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:28:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:58] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:28:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:28:58] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:30:33] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:30:33] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:30:33] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:30:33] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:30:33] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:30:33] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:30:33] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:30:33] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:30:33] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:30:33] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:32:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:02] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:32:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:02] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:32:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:02] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:32:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:02] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:32:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:02] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:32:28] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:28] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:32:28] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:28] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:32:28] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:28] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:32:28] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:28] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:32:28] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:32:28] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:33:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:36] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:33:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:36] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:33:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:36] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:33:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:36] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:33:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:36] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:33:52] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:52] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:33:52] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:52] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:33:52] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:52] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:33:52] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:52] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:33:52] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:33:52] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:34:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:34:59] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:34:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:34:59] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:34:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:34:59] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:34:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:34:59] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:34:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:34:59] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:35:15] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:35:15] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:35:15] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:35:15] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:35:15] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:35:15] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:35:15] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:35:15] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:35:15] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:35:15] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:39:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:00] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:39:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:00] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:39:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:00] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:39:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:00] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:39:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:00] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:39:24] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:24] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:39:24] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:24] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:39:24] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:24] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:39:24] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:24] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:39:24] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:24] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:39:40] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:39:41] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T18:39:41] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T18:39:41] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:39:41] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:40:37] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:40:37] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:40:37] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:40:37] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:40:37] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:41:16] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:41:16] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:42:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:42:58] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:42:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:42:58] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:42:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:42:58] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:42:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:42:58] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:42:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:42:59] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:43:00] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:43:00] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T18:43:00] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T18:43:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:43:00] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:43:36] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:43:36] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T18:43:36] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T18:43:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:43:36] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:43:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:43:36] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:43:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:43:36] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:43:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:43:36] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:43:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:43:36] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:43:49] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:43:49] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:43:49] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:43:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:43:49] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:44:18] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:44:18] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:45:35] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:45:35] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:45:35] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:45:35] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:45:35] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:45:35] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:45:35] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:45:35] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:45:35] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:45:35] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:45:39] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:45:39] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T18:45:39] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T18:45:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:45:39] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:46:02] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:46:02] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T18:46:02] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T18:46:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:02] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:46:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:02] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:46:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:02] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:46:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:02] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:46:02] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:02] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:46:48] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:46:48] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T18:46:48] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T18:46:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:48] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:46:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:48] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:46:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:48] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:46:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:48] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:46:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:48] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:46:55] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:46:55] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T18:46:55] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T18:46:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:55] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:46:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:55] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:46:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:55] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:46:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:55] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:46:55] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:46:55] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:47:07] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:47:07] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:47:11] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:47:11] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T18:47:11] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T18:47:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:47:11] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:47:21] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:47:21] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:47:21] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:47:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:47:21] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:47:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:47:25] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:49:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:36] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:49:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:36] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:49:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:36] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:49:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:36] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:49:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:36] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:49:54] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:54] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:49:54] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:54] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:49:54] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:54] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:49:54] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:54] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:49:54] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:49:54] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:50:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:25] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:50:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:25] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:50:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:25] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:50:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:25] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:50:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:25] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:50:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:56] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:50:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:56] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:50:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:56] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:50:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:56] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:50:56] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:50:56] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:51:14] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:14] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:51:14] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:14] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:51:14] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:14] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:51:14] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:14] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:51:14] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:14] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:51:37] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:37] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:51:37] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:37] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:51:37] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:37] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:51:37] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:37] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:51:37] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:37] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:51:51] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:51] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:51:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:59] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:51:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:59] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:51:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:59] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:51:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:59] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:51:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:51:59] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:52:09] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:52:09] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:52:10] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:52:10] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:52:10] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:52:10] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:52:10] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:52:10] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:52:10] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:52:10] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:53:17] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:53:17] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:53:17] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:53:17] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:53:17] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:53:17] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:53:17] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:53:17] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:53:17] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:53:17] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:55:23] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:23] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:55:23] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:23] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:55:23] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:23] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:55:23] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:23] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:55:23] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:23] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:55:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:42] "GET / HTTP/1.1" 200 -
+[2019-06-16T18:55:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:42] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:55:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:42] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:55:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:42] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:55:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:42] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:55:54] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:55:54] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:55:54] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:55:54] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:55:54] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:56:21] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:56:21] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:56:21] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:56:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:21] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:56:22] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:22] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:56:22] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:22] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:56:22] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:22] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:56:22] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:22] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:56:26] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:56:26] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:56:26] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:56:26] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:26] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:56:26] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:26] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:56:26] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:26] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:56:26] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:26] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:56:26] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:56:26] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:57:13] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:57:13] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:57:13] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:57:13] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:13] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:57:13] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:13] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:57:13] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:13] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:57:13] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:13] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:57:13] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:13] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:57:44] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:57:44] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:57:44] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:57:44] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:44] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:57:44] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:44] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:57:44] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:44] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:57:44] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:44] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:57:44] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:57:44] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:58:38] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:58:38] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:58:38] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:58:38] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:58:38] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:58:38] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:58:38] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:58:38] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:58:38] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T18:58:38] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:58:38] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:58:38] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:58:38] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T18:59:21] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T18:59:21] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4372
+[2019-06-16T18:59:21] INFO [root.summary:28] API call processed successfully
+[2019-06-16T18:59:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:59:21] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T18:59:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:59:21] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T18:59:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:59:21] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T18:59:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:59:21] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T18:59:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 18:59:21] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:00:12] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:00:12] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:01:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:01:49] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:01:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:01:49] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:01:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:01:49] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:01:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:01:49] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:01:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:01:49] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:03:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:03:11] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:03:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:03:11] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:03:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:03:11] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:03:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:03:11] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:03:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:03:11] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:03:15] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:03:15] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:04:20] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:20] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:04:20] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:20] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:04:20] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:20] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:04:20] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:20] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:04:20] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:20] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:04:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:21] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:04:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:21] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:04:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:21] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T19:04:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:21] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:04:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:21] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:04:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:49] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:04:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:49] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:04:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:49] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:04:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:49] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:04:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:49] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:04:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:04:58] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:05:00] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:05:00] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T19:05:01] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T19:05:01] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:01] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:05:04] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:05:04] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4369
+[2019-06-16T19:05:04] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:05:04] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:04] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:05:15] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:15] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:05:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:40] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:05:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:40] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:05:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:40] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:05:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:40] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:05:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:40] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:05:44] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:44] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:05:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:58] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:05:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:58] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:05:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:58] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:05:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:58] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:05:58] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:05:58] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:06:04] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:04] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:06:09] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:06:09] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=d&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 404 40
+[2019-06-16T19:06:09] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T19:06:09] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:09] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:06:12] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:06:12] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4353
+[2019-06-16T19:06:12] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:06:12] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:12] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:06:21] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:21] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:06:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:50] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:06:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:50] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:06:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:50] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:06:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:50] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:06:50] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:50] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:06:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:59] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:06:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:59] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:06:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:59] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:06:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:59] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:06:59] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:06:59] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:08:27] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:27] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:08:27] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:27] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:08:27] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:27] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:08:27] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:27] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:08:27] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:27] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:08:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:57] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:08:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:57] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:08:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:57] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:08:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:57] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:08:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:08:57] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:09:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:09:25] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:09:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:09:25] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:09:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:09:25] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:09:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:09:25] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:09:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:09:25] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:10:12] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:12] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:10:12] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:12] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:10:12] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:12] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:10:12] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:12] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:10:12] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:12] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:10:17] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:10:17] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 400 44
+[2019-06-16T19:10:17] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T19:10:17] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:17] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:10:22] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:10:22] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4369
+[2019-06-16T19:10:22] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:10:22] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:22] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:10:32] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:32] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:10:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:57] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:10:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:57] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:10:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:57] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:10:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:57] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:10:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:10:57] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:13:34] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:13:34] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:13:34] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:13:34] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:13:34] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:13:34] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T19:13:34] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:13:34] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:13:34] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:13:34] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:13:41] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:13:42] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=12&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 404 40
+[2019-06-16T19:13:42] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T19:13:42] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:13:42] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:13:57] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:13:57] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4353
+[2019-06-16T19:13:57] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:13:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:13:57] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:15:32] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:15:32] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4353
+[2019-06-16T19:15:32] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:15:32] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:15:32] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:15:32] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:15:32] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:15:32] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:15:32] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:15:32] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:15:32] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:15:32] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:15:32] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:16:25] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:16:25] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4349
+[2019-06-16T19:16:25] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:16:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:16:25] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:16:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:16:25] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:16:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:16:25] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T19:16:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:16:25] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:16:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:16:25] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:18:00] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:18:00] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4349
+[2019-06-16T19:18:00] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:18:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:00] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:18:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:00] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:18:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:00] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T19:18:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:00] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:18:00] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:00] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:18:39] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:18:39] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4349
+[2019-06-16T19:18:39] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:18:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:39] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:18:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:39] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T19:18:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:39] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:18:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:39] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:18:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:18:39] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:19:00] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:19:01] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4349
+[2019-06-16T19:19:01] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:19:01] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:01] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:19:01] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:01] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:19:01] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:01] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T19:19:01] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:01] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:19:01] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:01] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:19:48] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:19:49] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4349
+[2019-06-16T19:19:49] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:19:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:49] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:19:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:49] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:19:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:49] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T19:19:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:49] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:19:49] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:19:49] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:20:19] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:20:19] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dub&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4349
+[2019-06-16T19:20:19] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:20:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:20:19] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:20:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:20:19] "GET /static/content/reset.css HTTP/1.1" 304 -
+[2019-06-16T19:20:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:20:19] "GET /static/content/style.css HTTP/1.1" 304 -
+[2019-06-16T19:20:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:20:19] "GET /static/content/javascript.js HTTP/1.1" 304 -
+[2019-06-16T19:20:19] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:20:19] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 304 -
+[2019-06-16T19:20:53] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:20:53] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:21:08] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:08] "GET /favicon.ico HTTP/1.1" 404 -
+[2019-06-16T19:21:14] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:14] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:21:20] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:20] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:21:41] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:41] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:21:41] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:41] "GET /static/content/reset.css HTTP/1.1" 200 -
+[2019-06-16T19:21:41] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:41] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:21:41] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:41] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 200 -
+[2019-06-16T19:21:41] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:41] "GET /static/content/javascript.js HTTP/1.1" 200 -
+[2019-06-16T19:21:57] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:21:57] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:22:03] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:22:03] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=we&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 404 40
+[2019-06-16T19:22:03] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T19:22:03] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:22:03] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:22:08] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:22:08] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=New%20York&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4407
+[2019-06-16T19:22:08] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:22:08] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:22:08] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:22:33] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:22:33] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:22:52] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:22:52] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:22:53] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:22:53] "GET /favicon.ico HTTP/1.1" 404 -
+[2019-06-16T19:23:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:23:11] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:23:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:23:11] "GET /static/content/reset.css HTTP/1.1" 200 -
+[2019-06-16T19:23:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:23:11] "GET /static/content/style.css HTTP/1.1" 200 -
+[2019-06-16T19:23:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:23:11] "GET /static/images/imgGlobe-900x447px.jpg HTTP/1.1" 200 -
+[2019-06-16T19:23:11] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:23:11] "GET /static/content/javascript.js HTTP/1.1" 200 -
+[2019-06-16T19:23:17] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:23:17] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:23:20] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:23:20] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=we&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 404 40
+[2019-06-16T19:23:20] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T19:23:20] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:23:20] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:23:24] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:23:24] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4369
+[2019-06-16T19:23:24] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:23:24] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:23:24] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:31:45] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:31:46] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=New%20York&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4407
+[2019-06-16T19:31:46] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:31:46] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:31:46] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T19:32:13] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:32:13] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:32:14] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:32:14] "GET /favicon.ico HTTP/1.1" 404 -
+[2019-06-16T19:32:53] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:32:53] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:35:40] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:35:40] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:35:48] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:35:48] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:36:15] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:36:15] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:37:13] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:37:13] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:37:24] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:37:24] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:37:36] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:37:36] "GET / HTTP/1.1" 200 -
+[2019-06-16T19:37:39] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T19:37:39] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4339
+[2019-06-16T19:37:39] INFO [root.summary:28] API call processed successfully
+[2019-06-16T19:37:39] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 19:37:39] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T20:40:09] INFO [werkzeug._log:122]  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2019-06-16T20:40:09] INFO [werkzeug._log:122]  * Restarting with stat
+[2019-06-16T20:40:09] WARNING [werkzeug._log:122]  * Debugger is active!
+[2019-06-16T20:40:09] INFO [werkzeug._log:122]  * Debugger PIN: 155-521-353
+[2019-06-16T20:40:16] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 20:40:16] "GET / HTTP/1.1" 200 -
+[2019-06-16T20:40:24] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T20:40:25] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=devc&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 404 40
+[2019-06-16T20:40:25] WARNING [root.summary:31] API call failed. Please retry and check below
+[2019-06-16T20:40:25] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 20:40:25] "POST /summary HTTP/1.1" 200 -
+[2019-06-16T20:40:28] DEBUG [urllib3.connectionpool._new_conn:815] Starting new HTTPS connection (1): api.openweathermap.org:443
+[2019-06-16T20:40:29] DEBUG [urllib3.connectionpool._make_request:396] https://api.openweathermap.org:443 "GET /data/2.5/forecast/daily?q=Dublin&cnt=16&appid=ae3723984918e29156906ffa2182bf02 HTTP/1.1" 200 4325
+[2019-06-16T20:40:29] INFO [root.summary:28] API call processed successfully
+[2019-06-16T20:40:29] INFO [werkzeug._log:122] 127.0.0.1 - - [16/Jun/2019 20:40:29] "POST /summary HTTP/1.1" 200 -

@@ -1,0 +1,1 @@
+web: gunicorn weatherman:app --max-requests 1200

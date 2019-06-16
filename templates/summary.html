@@ -1,0 +1,349 @@
+{%extends 'layout.html'%}
+{%block content%}
+<div>
+    <article id='summary_content'>
+        <h2>{%block title%}Your Weather Report{%endblock%}</h2>
+        <div class='weather_result'>
+            <div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[1]['Date']}}</p>
+                        <p>Forecast Day: {{weather[1]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[1]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p>    
+                        {%for key,value in weather[1].items() %} 
+                            {%if key == 'icon'%}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                         <hr/>   
+                        {%endfor%}
+                        
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[2]['Date']}}</p>
+                        <p>Forecast Day: {{weather[2]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[2]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[2].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[3]['Date']}}</p>
+                        <p>Forecast Day: {{weather[3]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[3]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[3].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[4]['Date']}}</p>
+                        <p>Forecast Day: {{weather[4]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[4]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[4].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[5]['Date']}}</p>
+                        <p>Forecast Day: {{weather[5]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[5]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[5].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[6]['Date']}}</p>
+                        <p>Forecast Day: {{weather[6]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[6]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[6].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[7]['Date']}}</p>
+                        <p>Forecast Day: {{weather[7]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[7]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[7].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[8]['Date']}}</p>
+                        <p>Forecast Day: {{weather[8]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[8]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[8].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[9]['Date']}}</p>
+                        <p>Forecast Day: {{weather[9]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[9]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[9].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[10]['Date']}}</p>
+                        <p>Forecast Day: {{weather[10]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[10]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[10].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[11]['Date']}}</p>
+                        <p>Forecast Day: {{weather[11]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[11]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[11].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[12]['Date']}}</p>
+                        <p>Forecast Day: {{weather[12]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[12]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p>
+                        {%for key,value in weather[12].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[13]['Date']}}</p>
+                        <p>Forecast Day: {{weather[13]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[13]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[13].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[14]['Date']}}</p>
+                        <p>Forecast Day: {{weather[14]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[14]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[14].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[15]['Date']}}</p>
+                        <p>Forecast Day: {{weather[15]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[15]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[15].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+                <div class='day_result'>
+                    <div class='day'>
+                        <p>Forecast Date: {{weather[16]['Date']}}</p>
+                        <p>Forecast Day: {{weather[16]['Day']}}</p>
+                        <p>Average Tempereture: {{weather[16]['Average Daily Tempereture (Celsius)']}}</p>
+                    </div>
+                    <button class='btn_expand'>View/Close Detailed Forecast</button>
+                    <div class='day_detail'>
+                        <p><strong>Detailed Daily Forecast</strong></p> 
+                        {%for key,value in weather[16].items() %} 
+                            {%if key == 'icon' %}
+                                <a href="http://openweathermap.org/img/w/{{value}}.png">
+                                    <img src="http://openweathermap.org/img/w/{{value}}.png" alt="Image of weather for day"/>
+                                </a>   
+                            {%else%}
+                                {{key}}: {{value}}
+                            {%endif%}
+                            <hr/>
+                        {%endfor%}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+</div>
+{%endblock%}

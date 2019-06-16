@@ -1,0 +1,26 @@
+{%extends 'layout.html'%}
+{%block content%}
+<div>
+    <article id='home_content'>
+        <h2>{%block title%}Weatherman - Forecast{%endblock%}</h2>
+        <h3>Check Weather</h3>
+        {% if error %}
+            <aside class='error'>
+                <h4><strong>Something Went Wrong:</strong></h4>
+                <p>{{error}}</p>
+            </aside>
+        {%endif%}
+        </aside>
+        <form id="upload_form" action="{{url_for('summary')}}" method="POST" enctype="multipart/form-data">
+            <div>
+            <label>City Weather</label>  
+            <input class="textboxes" type="text" 
+                name="city" placeholder="Enter City Name" 
+                pattern=".{2,}" required title="2 characters minimum"/>
+            <input class="btn_expand" type="submit" value="Submit"/>
+            <input class="btn_expand" type="reset" value="Clear Form"/>
+            </div>
+        </form>
+    </article>
+</div>
+{%endblock%}
