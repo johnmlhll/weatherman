@@ -4,8 +4,10 @@ import os
 import sys
 import logging
 import json
+import unittest
 from packages.logger import Logger
 from packages.weatherapi import WeatherApi
+from tests.test_weatherman import TestWeatherman
 import packages.environ_support
 
 app = Flask(__name__)
@@ -35,3 +37,4 @@ def summary():
 if __name__ == "__main__":
     app.debug = True
     app.run(host='0.0.0.0', port=5000) # dev only
+    unittest.main()
